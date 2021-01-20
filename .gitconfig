@@ -1,0 +1,7 @@
+[user]
+	name = Alyssa-tian
+	email = ziling.tian@ontariotechu.com
+[user "credential"]
+	helper = store
+[credential]
+	helper = manager
